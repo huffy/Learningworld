@@ -1,0 +1,12 @@
+[submodule "Tools"]
+	path = Tools
+	url = https://github.com/huffy/LearningWorld_Tools.git
+[submodule "Config"]
+	path = Config
+	url = https://github.com/huffy/LearningWorld_Config.git
+[submodule "UnityProject/Assets/Hotfix/Hotfix_Art"]
+	path = UnityProject/Assets/Hotfix/Hotfix_Art
+	url = https://github.com/huffy/Learningworld_Hotfix_Art.git
+[submodule "UnityProject/Assets/Hotfix/Hotfix_Core"]
+	path = UnityProject/Assets/Hotfix/Hotfix_Core
+	url = https://github.com/huffy/Learningword_Hotfix_Core.git
